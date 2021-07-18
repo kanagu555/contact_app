@@ -34,7 +34,7 @@ const ContactList = (props) => {
       <div className="ui search">
         <div className="ui icon input">
           <input
-            ref={inputEl}
+            ref={inputEl} 
             type="text"
             placeholder="Search Contact"
             className="prompt"
