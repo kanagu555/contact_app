@@ -1,0 +1,29 @@
+{
+  "contacts": [
+    {
+      "id": "9c125252-dd5b-4689-8a41-f038662b2185",
+      "name": "Kanagaraj K",
+      "email": "kanagarajwhb@gmail.com"
+    },
+    {
+      "id": "f30ec1d8-4015-4666-a876-d2eaa829ddaa",
+      "name": "kanagu KK",
+      "email": "kanagu.555@gmail.com"
+    },
+    {
+      "id": "852dc819-bc9c-4b1f-bb95-fde4d73b32f2",
+      "name": "Kanagaraj K",
+      "email": "kanagu.555"
+    },
+    {
+      "id": "00f0b719-50cd-4e81-8f10-ed5bf7f51635",
+      "name": "Raj",
+      "email": "9994543672"
+    },
+    {
+      "id": "7b9ff33c-66a3-45b1-8312-ef18b6047273",
+      "name": "hari 7733",
+      "email": "manoprabha.karunanithi@wipro.com"
+    }
+  ]
+}
